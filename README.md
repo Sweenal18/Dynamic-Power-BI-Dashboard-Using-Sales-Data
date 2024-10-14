@@ -165,7 +165,7 @@ There are noticeable peaks in revenue during April and November, with dips in th
 - United Kingdom: 1,116 sessions, $79K revenue
 - Japan: 1,415 sessions, $93K revenue
 
-### General Insightsl
+### General Insights
 
 - The majority of the revenue is generated online (67.3%).
 - Email and referral lead sources are the highest contributors to revenue.
