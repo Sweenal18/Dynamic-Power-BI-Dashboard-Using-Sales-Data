@@ -1,6 +1,6 @@
 # Dynamic Power BI Dashboard Using Sales Data
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiODVhYmVlYzctMGQ4OC00ODk4LTg1ZmMtYTE2YzE4ZmZlNzA1IiwidCI6IjNhYWM4NjQxLWQ2MGEtNGNmMC05Y2Y3LTViM2IyNjRhNTQwOSJ9
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNmM1ODU3MzEtOWFhZC00NTI0LWE1YTYtODJhODkzNGFkMmNiIiwidCI6ImE1MzRkNGVhLTdiN2QtNGJhYy1hMDBmLTFkZTE4OGE4ZTk3MSJ9
 
 ## Overview
 
